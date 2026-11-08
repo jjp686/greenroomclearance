@@ -1593,6 +1593,15 @@ button, input, textarea, select {
   color: var(--color-accent-gold-light);
 }
 
+.footer-parent-link {
+  color: #bad3c3;
+  text-decoration: underline;
+}
+
+.footer-parent-link:hover {
+  color: var(--color-accent-gold-light);
+}
+
 .footer-bottom {
   display: flex;
   align-items: center;
