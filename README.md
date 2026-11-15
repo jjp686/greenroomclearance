@@ -61,5 +61,5 @@ This is a clean, lightweight static web application requiring zero build steps o
 ## Contact
 
 - **Website**: [greenroomclearance.com](https://greenroomclearance.com)
-- **Email**: info@greenroomclearance.com
+- **Email**: jamie@greenroomclearance.com
 - **Region**: Bournemouth, Christchurch & Poole (Dorset, UK)
